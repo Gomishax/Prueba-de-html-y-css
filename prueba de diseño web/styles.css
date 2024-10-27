@@ -1,0 +1,17 @@
+h1 { color: rgb(129, 92, 13); 
+text-align: center;
+margin: 10px;}
+
+.myClass { font-size: 30px;
+color: #bd5a0e; 
+text-align: center;}
+
+* { margin: 50px; 
+    padding: 0px;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+ }
+ h2 { color: rgb(65, 46, 6); 
+    text-align: center;
+    margin: 10px;}
